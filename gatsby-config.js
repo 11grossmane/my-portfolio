@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
  siteMetadata: {
-  siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+  siteTitleAlt: `Portfolio`,
  },
  plugins: [
   {
@@ -20,8 +20,8 @@ module.exports = {
   {
    resolve: `gatsby-plugin-manifest`,
    options: {
-    name: `Cara - @lekoarts/gatsby-theme-cara`,
-    short_name: `EricPortfolio`,
+    name: `Eric Grossman`,
+    short_name: `Eric Grossman`,
     description: `Playful and Colorful One-Page portfolio`,
     start_url: `/`,
     background_color: `#141821`,
