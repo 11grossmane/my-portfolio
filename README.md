@@ -1,8 +1,8 @@
 ## ✨ Features
 
-- Theme UI-based theming
-- react-spring parallax effect
-- CSS Animations on Shapes
+-   Theme UI-based theming
+-   react-spring parallax effect
+-   CSS Animations on Shapes
 
 ## 🚀 Getting Started
 
@@ -67,13 +67,13 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 
 ### Themes
 
-- To learn more about Gatsby themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
+-   To learn more about Gatsby themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
 
 ### General
 
-- **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+-   **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
-- **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
+-   **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
 
 ## 🌟 Supporting me
 
