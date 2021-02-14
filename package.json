@@ -12,7 +12,9 @@
         "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
         "start": "gatsby develop",
         "serve": "gatsby serve",
-        "clean": "gatsby clean"
+        "clean": "gatsby clean",
+        "deploy-firebase": "firebase deploy",
+        "deploy-firebase-site-specific": "npm run build && firebase deploy --only hosting:eric"
     },
     "dependencies": {
         "@lekoarts/gatsby-theme-cara": "^1.0.13",
