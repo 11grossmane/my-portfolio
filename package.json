@@ -13,7 +13,7 @@
         "start": "gatsby develop",
         "serve": "gatsby serve",
         "clean": "gatsby clean",
-        "deploy-firebase": "firebase deploy",
+        "deploy-firebase": "npm run build && firebase deploy",
         "deploy-firebase-site-specific": "npm run build && firebase deploy --only hosting:eric"
     },
     "dependencies": {
